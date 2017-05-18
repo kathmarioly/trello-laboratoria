@@ -1,0 +1,33 @@
+body{
+    
+    background-color: rgb(71, 209, 209);
+    
+}
+
+#titulo{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(46, 184, 184);
+     margin: 4px 
+}
+
+#botoncillo{
+    background-color: rgb(51, 204, 51);
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.caja{
+    background-color: white;
+    padding: 15px;
+    width: 18%
+}
